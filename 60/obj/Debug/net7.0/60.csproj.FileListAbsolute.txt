@@ -1,0 +1,15 @@
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\60.csproj.AssemblyReference.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\60.AssemblyInfoInputs.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\60.AssemblyInfo.cs
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\60.csproj.CoreCompileInputs.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\bin\Debug\net7.0\60.exe
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\bin\Debug\net7.0\60.deps.json
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\bin\Debug\net7.0\60.runtimeconfig.json
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\bin\Debug\net7.0\60.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\bin\Debug\net7.0\60.pdb
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\60.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\refint\60.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\60.pdb
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\60.genruntimeconfig.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Homework\Lesson008\60\obj\Debug\net7.0\ref\60.dll
